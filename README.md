@@ -11,3 +11,4 @@ How to run:
 
   - Add MarianoClossDiscordBot to your Discord Server 
   - Type "=Closs"
+  - Check msg
