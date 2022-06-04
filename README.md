@@ -11,7 +11,7 @@ How to run:
 
 
 
-  - Add MarianoClossDiscordBot to your Discord Server 
+  - Add MarianoClossDiscordBot to your Discord Server (Click on: https://discord.com/api/oauth2/authorize?client_id=982368166594347028&permissions=534760652096&scope=bot)
   - Type "=Closs"
   - Check msg
 
